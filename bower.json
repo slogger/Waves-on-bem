@@ -1,15 +1,18 @@
 {
-  "name": "Waves",
-  "version": "0.5.2",
-  "homepage": "http://publicis-indonesia.github.io/Waves",
+  "name": "Waves-on-bem",
+  "version": "0.1.0",
+  "homepage": "http://github.com/slogger/Waves-on-bem",
   "authors": [
-    "Alfiana E. Sibuea <alfian.sibuea@gmail.com>"
+    "Alfiana E. Sibuea <alfian.sibuea@gmail.com>",
+    "Maxim Syrykh <slogger@uprt.ru>"
   ],
   "description": "Click effect inspired by Google's Material Design",
-  "main": "dist/waves.min.js",
+  "main": "common.blocks/waves/waves.browser.js",
   "keywords": [
     "click",
-    "material-design"
+    "material-design",
+    "bem",
+    "#b_"
   ],
   "license": "BSD",
   "ignore": [
