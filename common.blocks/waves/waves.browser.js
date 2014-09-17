@@ -8,7 +8,7 @@
  */
 
 /*!
- * waves-on-bem v.0.1.0
+ * Waves-on-bem v.0.1.0
  *
  * Copyright 2014 slogger
  */
