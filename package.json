@@ -1,6 +1,6 @@
 {
   "name": "Waves-on-bem",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Click effect insipired by Google Material Design",
   "author": "Alfiana E. Sibuea <alfian.sibuea@gmail.com>",
   "main": "common.blocks/waves/waves.browser.js",

@@ -8,7 +8,7 @@
  */
 
 /*!
- * Waves-on-bem v.0.1.0
+ * Waves-on-bem v.0.1.1
  *
  * Copyright 2014 slogger
  */
@@ -23,7 +23,7 @@ modules.define('waves', ['i-bem__dom'], function(provide, DOM) {
             'js': {
                 'inited': function() {
                     this._addApi();
-                    Waves.displayEffect();
+                    this._api.displayEffect();
                 }
             }
         },
@@ -260,8 +260,7 @@ modules.define('waves', ['i-bem__dom'], function(provide, DOM) {
                 });
 
             };
-
-            window.Waves = Waves;
+            this._api = Waves;
         }
     });
 
